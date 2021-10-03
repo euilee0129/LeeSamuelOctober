@@ -1,0 +1,2 @@
+# LeeSamuelOctober
+leetcode practice
